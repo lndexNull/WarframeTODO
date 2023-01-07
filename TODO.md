@@ -1,18 +1,19 @@
 Liches:
 
+    ~~Kuva Nukor
+    ~~Kuva Ogris
+    ~~Kuva Bramma
+    ~~Kuva Hek
+    ~~Kuva Kohm
+
     Kuva Ayanga
     Kuva Brakk
-    ~~Kuva Bramma~~
     Kuva Chakkhurr
     Kuva Drakgoon
     Kuva Grattler
-    ~~Kuva Hek~~
     Kuva Hind
     Kuva Karak
-    Kuva Kohm
     Kuva Kraken
-    ~~Kuva Nukor~~
-    ~~Kuva Ogris~~
     Kuva Quartakk
     Kuva Seer
     Kuva Shildeg
@@ -39,7 +40,7 @@ Sisters:
 
 Syndicates:
 
-Fortuna
-Vox Solaris
-Cetus
-Zariman
+    Fortuna
+    Vox Solaris
+    Cetus
+    Zariman
