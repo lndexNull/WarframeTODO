@@ -2,17 +2,17 @@ Liches:
 
     Kuva Ayanga
     Kuva Brakk
-    <s>Kuva Bramma</s>
+    ~~Kuva Bramma~~
     Kuva Chakkhurr
     Kuva Drakgoon
     Kuva Grattler
-    <s>Kuva Hek</s>
+    ~~Kuva Hek~~
     Kuva Hind
     Kuva Karak
     Kuva Kohm
     Kuva Kraken
-    <s>Kuva Nukor</s>
-    <s>Kuva Ogris</s>
+    ~~Kuva Nukor~~
+    ~~Kuva Ogris~~
     Kuva Quartakk
     Kuva Seer
     Kuva Shildeg
