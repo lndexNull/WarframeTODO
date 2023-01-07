@@ -5,9 +5,9 @@ Liches:
     ~~Kuva Bramma
     ~~Kuva Hek
     ~~Kuva Kohm
+    ~~Kuva Brakk
 
     Kuva Ayanga
-    Kuva Brakk
     Kuva Chakkhurr
     Kuva Drakgoon
     Kuva Grattler
