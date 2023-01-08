@@ -23,13 +23,14 @@ Liches:
 
 Sisters:
 
+    ~~Tenet Arca Plasmor
+    ~~Tenet Envoy
+    ~~Tenet Cycron
+
     Tenet Tetra
     Tenet Flux Rifle
-    Tenet Arca Plasmor
-    Tenet Cycron
     Tenet Detron
     Tenet Plinx
-    Tenet Envoy
     Tenet Diplos
     Tenet Spirex
     Tenet Agendus
